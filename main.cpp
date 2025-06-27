@@ -9,7 +9,7 @@ int main() {
     vector<int> virkne2;
     int x, y;
 
-    // pirmas virknes ievade
+    // pirmas virknes ievade jajajajaja
     while (true) {
         cin >> x;
         // cikls tiek apturēts uzreiz kā lietotājs ievada 1
